@@ -30,5 +30,5 @@ let mailBtn = document.querySelector(".email-section")
 const startGameBtn = document.querySelector('tooltip');
 
 startGameBtn.addEventListener('click', function() {
-  window.open('jogo.html', 'Jogo', 'width=800,height=600');
+  window.open('supermario.html', 'Jogo', 'width=300,height=300');
 });
