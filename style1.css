@@ -304,6 +304,7 @@ sidebar.open{
   justify-content: flex-start;
   align-items: center;
   padding: 10px 200px;
+  top: 0px;
   
 }
 
