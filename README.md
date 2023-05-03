@@ -104,5 +104,5 @@ let mailBtn = document.querySelector(".email-section")
 <h2>Licença</h2>
 
 
-
+![](https://github.com/Dizziolica/UbuntuCopy/blob/main/UbuntuCopy.gif)
 
