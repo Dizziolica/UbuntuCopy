@@ -69,14 +69,14 @@
 <h2>Como jogar</h2>
 <p>Para utilizar este projeto, basta abrir o arquivo <code>index.html</code> em um navegador web moderno. A partir daí, você poderá explorar o desktop do Ubuntu simulado e interagir com suas funcionalidades.</p>
 
-	<h2>Funcionalidades</h2>
+<h2>Funcionalidades</h2>
 
-	<ul>
-		<li>Barra de tarefas na parte superior da tela, com um menu de aplicativos e notificações do sistema.</li>
-		<li>Área de trabalho com ícones de aplicativos e arquivos.</li>
+<ul>
+<li>Barra de tarefas na parte superior da tela, com um menu de aplicativos e notificações do sistema.</li>
+<li>Área de trabalho com ícones de aplicativos e arquivos.</li>
 		
 	
-	</ul>
+</ul>
 <pre><code>
 
 let sidebar = document.querySelector(".sidebar");
